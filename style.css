@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+    
+}
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+h1 {
+     text-align: center;
+     font-size: 2.5rem;
+     font-family: 'PT Sans', sans-serif;
+}
+
