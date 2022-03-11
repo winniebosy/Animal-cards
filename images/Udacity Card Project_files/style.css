@@ -1,0 +1,42 @@
+html {
+    box-sizing: border-box;
+    
+}
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+
+body {
+
+    font-family: 'PT Sans', sans-serif;
+    background-color: #faebd7;
+}
+
+
+
+h1 {
+     text-align: center;
+     font-size: 2.5rem;
+}
+
+.main {
+    border: 1px solid rgb(170, 167, 167);
+    box-shadow: 10px 10px 5px 0px rgba(186,174,174,0.75);
+    width: 350px;
+    padding: 
+
+}
+h1 {
+    margin: 1rem;
+    font-size: 1.2rem;
+
+}
+img {
+    width: 300px;
+    height: auto;
+    background-position: center;
+
+}
+    
+
